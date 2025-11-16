@@ -1,5 +1,5 @@
-.card-img-top {
-    width: 200;
-    height: 170;
-    object-fit: cover;
+body {
+    background-color: rgb(206, 202, 146);
 }
+.card 
+{background-color: antiquewhite;}
