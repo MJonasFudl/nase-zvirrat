@@ -1,5 +1,18 @@
 body {
-    background-color: rgb(206, 202, 146);
+    background-color: rgb(236, 235, 235);
 }
 .card 
-{background-color: antiquewhite;}
+{background-color: rgb(255, 248, 240);
+border: 8px;}
+
+img {height: 200;
+width: 250;
+object-fit: cover;}
+ 
+.velikost {height: auto;
+width: 550;}
+
+.logo {height: 25px;
+width: auto;}
+
+.card img {border: 3px;}
