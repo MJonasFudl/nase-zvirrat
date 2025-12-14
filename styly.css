@@ -15,4 +15,11 @@ width: 550;}
 .logo {height: 25px;
 width: auto;}
 
-.card img {border: 3px;}
+.obrazky img {height: 360px;
+    width: 500px;
+    object-fit: cover;
+}
+
+.obrazky {display: flex;
+justify-content: center;
+gap: 10px;}
